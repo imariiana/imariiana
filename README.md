@@ -1,4 +1,4 @@
-## Oioi! Eu sou a Mariana Vitória
+## Oioi! Eu sou a Mariana
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
