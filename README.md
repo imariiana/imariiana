@@ -15,4 +15,5 @@
     
 </div>
 
-![Snake animation](https://github.com/imariiana/imariiana/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/imariiana/imariiana/blob/output/github-contribution-grid-snake.svg)
+
