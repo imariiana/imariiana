@@ -1,12 +1,26 @@
-## Oioi! Eu sou a Mariana
+# Oie! ^_^
 
+ <h2> 📚Interest/Study </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imariiana&show_icons=true&theme=maroongold" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imariiana&show_icons=true&theme=maroongold&layout=compact&langs_count=8&card_width=120" />
-</a>
+<div align="center">
+    <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+    <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+          
+</div>
+
+##
+
+<div align="center">
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imariiana&show_icons=true&theme=maroongold&bg_color=440000&hide_border=true" />
+
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imariiana&show_icons=true&theme=maroongold&layout=compact&langs_count=8&card_width=120&bg_color=440000&hide_border=true" />
+</div>
+
 
 ##
 
