@@ -1,7 +1,8 @@
-# Oie! ^_^
+# <img src="https://64.media.tumblr.com/8a09e66a2fa946eac874337fd89efd56/93e030a15af1ce52-2e/s100x200/fb5b17091f5523a60be9936a521a71e6fe9bd4de.pnj"> Oie! ^_^ 
 
- <h2> 📚Interest/Study </h2>
 
+
+ <h2> 📚Interest/Study </h2> 
 <div align="center">
     <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
