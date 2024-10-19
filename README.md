@@ -1,4 +1,5 @@
 # <img src="https://64.media.tumblr.com/8a09e66a2fa946eac874337fd89efd56/93e030a15af1ce52-2e/s100x200/fb5b17091f5523a60be9936a521a71e6fe9bd4de.pnj"> Oie! ^_^ 
+<h4>Estudante de tecnologia em Sistemas para Internet no IFRN. Ainda estou me descobrindo na área e por isso estou sempre buscando aprender novas tecnologias.</h4>
 
 
 
