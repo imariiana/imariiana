@@ -1,4 +1,4 @@
-# <img src="https://64.media.tumblr.com/8a09e66a2fa946eac874337fd89efd56/93e030a15af1ce52-2e/s100x200/fb5b17091f5523a60be9936a521a71e6fe9bd4de.pnj"> Oie! ^_^ 
+#  <img src="https://64.media.tumblr.com/3a94136f87a943037f80c0b335ad7446/c88461b8cbf3db36-a0/s2048x3072/7dae4a274e585b3b939962d245d34bc3eeb3be84.pnj"> Oie!
 <p>Estudante de tecnologia em Sistemas para Internet no IFRN. Ainda estou me descobrindo na área e por isso estou sempre buscando aprender novas tecnologias.</p>
 
 
@@ -37,5 +37,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imariiana/imariiana/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imariiana/imariiana/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
