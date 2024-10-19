@@ -1,8 +1,7 @@
-#  <img src="https://64.media.tumblr.com/3a94136f87a943037f80c0b335ad7446/c88461b8cbf3db36-a0/s2048x3072/7dae4a274e585b3b939962d245d34bc3eeb3be84.pnj"> Oie!
+#  Mariana Vitória
 <p>Estudante de tecnologia em Sistemas para Internet no IFRN. Ainda estou me descobrindo na área e por isso estou sempre buscando aprender novas tecnologias.</p>
 
-
- <h2> 📚Interest/Study </h2> 
+<h2> 📚Interest/Study </h2> 
 <div align="center">
     <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
