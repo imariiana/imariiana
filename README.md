@@ -1,4 +1,8 @@
-#  Mariana Vitória
+<div align="center"> <img height="150px" src="https://64.media.tumblr.com/9f5abfbd728caf3c28efaef32e52ac6e/818874f94e0b7eaf-ce/s1280x1920/0e7d01eeb43d1f98624da20a663425c76db4744d.gifv"/></div>
+
+
+
+#  System.out.println("Mariana Vitória");
 <p>Estudante de tecnologia em Sistemas para Internet no IFRN. Ainda estou me descobrindo na área e por isso estou sempre buscando aprender novas tecnologias.</p>
 
 <h2> 📚Interest/Study </h2> 
