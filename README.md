@@ -3,7 +3,7 @@
 
 
 #  System.out.println("Mariana Vitória");
-<p>Estudante de tecnologia em Sistemas para Internet no IFRN. Ainda estou me descobrindo na área e por isso estou sempre buscando aprender novas tecnologias.</p>
+<p>Estudante de tecnologia em Sistemas para Internet no IFRN. Ainda me descobrindo...</p>
 
 <h2> 📚Interest/Study </h2> 
 <div align="center">
