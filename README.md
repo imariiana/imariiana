@@ -2,7 +2,7 @@
 
 
 
-#  System.out.println("Mariana Vitória");
+# Mariana Vitória
 <p>Estudante de tecnologia em Sistemas para Internet no IFRN. Ainda me descobrindo...</p>
 
 <h2> 📚Interest/Study </h2> 
