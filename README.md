@@ -3,7 +3,7 @@
 
 
 # Mariana Vitória
-<p>Olá, fique a vontande para acompanhar o meu crescimento</p>
+<p>Oi! Acompanhe junto comigo meu crescimento e minhas ideias se transformando em código :)</p>
 
 <h2> 📚Interest/Study </h2> 
 <div align="center">
