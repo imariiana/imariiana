@@ -3,7 +3,7 @@
 
 
 # Mariana Vitória
-<p>Estudante de tecnologia em Sistemas para Internet no IFRN. Ainda me descobrindo...</p>
+<p>Olá, fique a vontande para acompanhar o meu crescimento</p>
 
 <h2> 📚Interest/Study </h2> 
 <div align="center">
