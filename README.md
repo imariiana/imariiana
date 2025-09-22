@@ -38,7 +38,6 @@
     
 </div>
 
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imariiana /imariiana /output/pacman-contribution-graph-dark.svg">
@@ -47,8 +46,5 @@
 </picture>
 
 ###
-
-###
-
 
 
